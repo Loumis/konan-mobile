@@ -1,0 +1,177 @@
+{
+  "version": "1.0.0",
+  "lastUpdate": "2025-12-17",
+  "cgu": {
+    "title": "Conditions Générales d'Utilisation",
+    "sections": [
+      {
+        "id": "1",
+        "title": "Objet",
+        "content": "Les présentes Conditions Générales d'Utilisation (CGU) régissent l'accès et l'utilisation de l'application KONAN, un agent juridique intelligent développé pour fournir des conseils et analyses juridiques."
+      },
+      {
+        "id": "2",
+        "title": "Nature du service",
+        "content": "KONAN est un assistant juridique intelligent basé sur l'intelligence artificielle. Les informations et conseils fournis par KONAN ne constituent pas un avis juridique formel et ne remplacent pas les conseils d'un avocat qualifié."
+      },
+      {
+        "id": "3",
+        "title": "Responsabilités",
+        "subsections": [
+          {
+            "title": "3.1 Limites de responsabilité",
+            "content": [
+              "KONAN ne peut être tenu responsable des décisions prises sur la base de ses conseils.",
+              "Les informations fournies sont à titre informatif uniquement.",
+              "KONAN ne garantit pas l'exactitude ou l'exhaustivité des informations fournies."
+            ]
+          },
+          {
+            "title": "3.2 Utilisation du service",
+            "content": [
+              "L'utilisateur reconnaît que KONAN est un outil d'aide à la décision.",
+              "Pour toute question juridique complexe, l'utilisateur doit consulter un avocat.",
+              "L'utilisateur est seul responsable de l'utilisation qu'il fait des informations fournies."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Propriété intellectuelle",
+        "content": "L'ensemble des contenus, textes, images, logos et éléments graphiques de l'application KONAN sont la propriété exclusive de KONAN et sont protégés par les lois relatives à la propriété intellectuelle."
+      },
+      {
+        "id": "5",
+        "title": "Abonnements",
+        "subsections": [
+          {
+            "title": "5.1 Formule Free",
+            "content": [
+              "Accès limité aux fonctionnalités de base.",
+              "Nombre limité de questions par mois."
+            ]
+          },
+          {
+            "title": "5.2 Formule Premium",
+            "content": [
+              "Accès illimité à toutes les fonctionnalités.",
+              "Analyses approfondies et rôles dynamiques.",
+              "Support prioritaire."
+            ]
+          },
+          {
+            "title": "5.3 Résiliation",
+            "content": [
+              "L'utilisateur peut résilier son abonnement à tout moment depuis les paramètres de l'application."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Modification des CGU",
+        "content": "KONAN se réserve le droit de modifier les présentes CGU à tout moment. Les utilisateurs seront informés de toute modification significative par notification dans l'application."
+      },
+      {
+        "id": "7",
+        "title": "Droit applicable",
+        "content": "Les présentes CGU sont régies par le droit français. Tout litige relatif à leur interprétation ou à leur exécution relève de la compétence exclusive des tribunaux français."
+      }
+    ],
+    "contact": {
+      "title": "Contact",
+      "email": "legal@konan.app",
+      "description": "Pour toute question concernant les CGU"
+    }
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "sections": [
+      {
+        "id": "1",
+        "title": "Collecte des données",
+        "subsections": [
+          {
+            "title": "1.1 Données de compte",
+            "content": [
+              "Email",
+              "Nom et prénom (si fournis)",
+              "Mot de passe (crypté)"
+            ]
+          },
+          {
+            "title": "1.2 Données d'utilisation",
+            "content": [
+              "Historique des conversations",
+              "Dates et heures d'utilisation",
+              "Type d'abonnement"
+            ]
+          },
+          {
+            "title": "1.3 Données techniques",
+            "content": [
+              "Adresse IP",
+              "Type d'appareil",
+              "Version de l'application"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Utilisation des données",
+        "content": [
+          "Fournir et améliorer le service KONAN",
+          "Personnaliser l'expérience utilisateur",
+          "Gérer les abonnements et la facturation",
+          "Analyser l'utilisation du service",
+          "Communiquer avec les utilisateurs",
+          "Assurer la sécurité du service"
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Partage des données",
+        "content": "KONAN ne partage pas vos données personnelles avec des tiers, sauf :\n• En cas d'obligation légale\n• Avec votre consentement explicite\n• Avec nos prestataires de services (hébergement, paiement) sous contrat de confidentialité"
+      },
+      {
+        "id": "4",
+        "title": "Sécurité des données",
+        "content": [
+          "Cryptage des données en transit (HTTPS)",
+          "Cryptage des mots de passe",
+          "Serveurs sécurisés",
+          "Accès restreint aux données",
+          "Sauvegardes régulières"
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Vos droits (RGPD)",
+        "content": "Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez des droits suivants :\n• Droit d'accès : obtenir une copie de vos données\n• Droit de rectification : corriger vos données\n• Droit à l'effacement : supprimer vos données\n• Droit à la portabilité : récupérer vos données\n• Droit d'opposition : s'opposer au traitement\n• Droit de limitation : limiter le traitement\n\nPour exercer vos droits, contactez : privacy@konan.app"
+      },
+      {
+        "id": "6",
+        "title": "Cookies",
+        "content": "KONAN utilise des cookies pour :\n• Maintenir votre session connectée\n• Mémoriser vos préférences (thème, langue)\n• Analyser l'utilisation du service\n\nVous pouvez désactiver les cookies depuis les paramètres de votre appareil, mais cela peut affecter le fonctionnement de l'application."
+      },
+      {
+        "id": "7",
+        "title": "Conservation des données",
+        "content": "Vos données sont conservées :\n• Pendant la durée de votre abonnement\n• 3 ans après la fin de votre abonnement (obligations légales)\n• Suppression automatique au-delà, sauf obligation légale"
+      },
+      {
+        "id": "8",
+        "title": "Modifications",
+        "content": "KONAN se réserve le droit de modifier cette politique de confidentialité. Toute modification significative vous sera notifiée par email ou notification dans l'application."
+      }
+    ],
+    "contact": {
+      "title": "Contact",
+      "dpo": "dpo@konan.app",
+      "description": "Délégué à la Protection des Données (DPO)"
+    }
+  }
+}
+

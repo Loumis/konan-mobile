@@ -1,0 +1,19 @@
+{
+  "newChat": "New Chat",
+  "send": "Send",
+  "attach": "Attach",
+  "title": "KONAN",
+  "placeholder": "Message KONAN...",
+  "emptyChat": "Start a conversation with KONAN",
+  "emptySubtext": "Ask your legal questions",
+  "logout": "Logout",
+  "image": "Image",
+  "file": "File",
+  "selectLanguage": "Select Language",
+  "cancel": "Cancel",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "auto": "Auto"
+}
+
